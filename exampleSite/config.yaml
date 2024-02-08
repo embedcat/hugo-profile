@@ -373,6 +373,8 @@ params:
       twitter: https://twitter.com
       instagram: https://instagram.com
       facebook: https://facebook.com
+    brandLogo:
+      enable: true
 
   # List pages like blogs and posts
   listPages:
