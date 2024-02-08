@@ -374,6 +374,8 @@ params:
       instagram: https://instagram.com
       facebook: https://facebook.com
       headhunter: https://hh.ru
+    brandLogo:
+      enable: true
 
   # List pages like blogs and posts
   listPages:
